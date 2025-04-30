@@ -6,7 +6,7 @@ A collection of ready-to-use n8n workflows powered by [ScrapeOps](https://scrape
 
 1. Clone this repository or download the workflow JSON file you're interested in
 2. Import the workflow into your n8n instance
-3. Configure the necessary credentials (ScrapeOps API key, Google Sheets, email)
+3. Configure the necessary credentials
 4. Adjust the workflow parameters as needed
 5. Activate the workflow
 
